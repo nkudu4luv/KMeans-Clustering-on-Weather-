@@ -21,24 +21,19 @@ Clusters represent dry, moderate, and wet weather conditions.
 🛠️ Requirements
 Make sure you have the following installed:
 
-bash
-Copy
-Edit
+
 Python 3.x
 pandas
 matplotlib
 scikit-learn
 You can install the dependencies with:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 📂 File Structure
 kotlin
 Copy
-Edit
-.
+
 ├── data/
 │   └── noaa_weather_data.csv
 ├── output/
@@ -47,6 +42,7 @@ Edit
 ├── README.md
 ├── requirements.txt
 └── cluster_plot.png
+
 🚀 How to Run
 Place your NOAA CSV file in the data/ folder.
 
