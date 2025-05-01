@@ -1,4 +1,4 @@
-# Module-4-Assignment-K-Means-Python-Application
+# K-Means-Python-Application
 
 # K-Means Clustering on Weather Data
 This project performs K-Means clustering on NOAA weather data using temperature, wind speed, and precipitation to group similar weather patterns. The output includes a visual representation of the clusters and their centroids.
